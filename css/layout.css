@@ -22,7 +22,7 @@ dl .head dt{
     padding:20px;
 }
 dl .vocab{
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgb(182, 50, 50);
     height: 100%;
     
     background: #e0a7a7 ;
@@ -36,7 +36,8 @@ dl .vocab dt, dd{
 }
 dl .vocab dt{
     font-size: 300%;
-    border-right: 1px solid black;
+    border-right: 1px solid rgb(173, 46, 46);
+    color: #3f0808;
     width: 15rem;
     text-align: center;
     padding:10px;
